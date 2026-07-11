@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>🎓 B.Tech CSE (IoT) Student | 7th Semester<br><br>🏫 Studying at :Lakshmi Narain College of Technology Bhopal<br><br>💡 Tech Enthusiast with interests in:<br>- 🌐 Full Stack Development<br>- ☕ Data Structures & Algorithms (Java)<br>- 📡 Internet of Things (IoT)<br><br>🏆 Achievement:<br>- Smart India Hackathon 2025 Runner-Up<br><br>📈 Currently focused on strengthening problem-solving skills, building full-stack applications, and exploring innovative IoT solutions.<br><br>> "Learning, Building, and Growing Every Day."
+## 🚀 About Me<br><br>🎓 B.Tech CSE (IoT) Student | 6th Semester<br><br>🏫 Studying at :Lakshmi Narain College of Technology Bhopal<br><br>💡 Tech Enthusiast with interests in:<br>- 🌐 Full Stack Development<br>- ☕ Data Structures & Algorithms (Java)<br>- 📡 Internet of Things (IoT)<br><br>🏆 Achievement:<br>- Smart India Hackathon 2025 Runner-Up<br><br>📈 Currently focused on strengthening problem-solving skills, building full-stack applications, and exploring innovative IoT solutions.<br><br>> "Learning, Building, and Growing Every Day."
 
 
 ## 🌐 Socials:
